@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wechat</string>
+    <string name="input_name">请输入姓名</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="book_blank_fragment">book blank fragment</string>
+    <string name="msg_blank_fragment">msg blank fragment</string>
+    <string name="me_blank_fragment">me blank fragment</string>
+    <string name="found_blank_fragment">found blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
