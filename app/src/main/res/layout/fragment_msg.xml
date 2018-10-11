@@ -6,9 +6,24 @@
     tools:context=".MsgFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <TextView
+ <!--   <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="@string/msg_blank_fragment" />
+        -->
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/common_bg"
+        android:orientation="vertical" >
+        <ListView
+            android:cacheColorHint="#00000000"
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            android:divider="@null"
+            />
+    </LinearLayout>
 
 </FrameLayout>

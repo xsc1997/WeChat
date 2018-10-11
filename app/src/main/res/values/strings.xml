@@ -7,6 +7,16 @@
     <string name="msg_blank_fragment">msg blank fragment</string>
     <string name="me_blank_fragment">me blank fragment</string>
     <string name="found_blank_fragment">found blank fragment</string>
+    <!--字符串数组，用于ListView的静态数据-->
+    <string-array name="week">
+        <item>星期一</item>
+        <item>星期2</item>
+        <item>星期3</item>
+        <item>星期4</item>
+        <item>星期5</item>
+        <item>星期6</item>
+        <item>星期日</item>
+    </string-array>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

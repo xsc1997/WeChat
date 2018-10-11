@@ -6,5 +6,5 @@
     <color name="common_bg">#fcfcfc</color>
     <color name="top_bar_normal_bg">#4ebcd3</color>
     <color name="bottom_text_color_normal">#ffffff</color>
-
+    <color name="view_bg">#565555</color>
 </resources>
